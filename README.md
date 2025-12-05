@@ -101,10 +101,10 @@ python main.py
 
 ```
 ┌─────────────────────────────────────┬──────────────┐
-│  3D FFT Visualization (Left)       │   Control    │
-│  3D DCT Visualization (Right)      │   Panel      │
+│  3D FFT Visualization (Left)        │   Control    │
+│  3D DCT Visualization (Right)       │   Panel      │
 ├─────────────────────────────────────┤              │
-│  Power Spectral Density (PSD)      │   • Load     │
+│  Power Spectral Density (PSD)       │   • Load     │
 ├─────────────────────────────────────┤   • Compute  │
 │  Original  │  FFT Recon │ DCT Recon │   • Options  │
 │   Image    │   Image    │  Image    │   • Filters  │
